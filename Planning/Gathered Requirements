@@ -1,1 +1,30 @@
+1. Functional Requirements
+- The system will enable the user to enter their water intake in one tap using the main dashboard.
+- The system will include a searchable database of pre-calculated calories of Taylor's University Campus food.
+- The system will automatically compute and display the amount of calories the user needs to consume on the home page.
+- The system will monitor the amount of money (Ringgit Malaysia) spent on meals per day to help withy managing budgets.
 
+2. Non-Functional Requirements
+- The application interface needs to be sparse and the user needs to be able to record a common campus meal within less than 30s to avoid user tediousness.
+- The campus food database should be fast and light so that it can be easily accessed during peak hours.
+- The system should safely hold all the personal student information (body weight, caloric targets, daily budget, etc) either on local devices or on encrypted cloud services.
+- The final prototype of the mobile application should be compatible with both iOS and Andriod mobile operating systems.
+- The system needs to be available 99% of the time and be online 24/7.
+- The system interface should be designed in a minimalist style, with clean white space and not congested with data-filled spreadsheets.
+
+3. Product backlog and user stories (prioritzed using MoSCoW method)
+
+  i. Must Have
+  -  As a busy student, I want to record my water consumption in a single tap so I can monitor my daily hydration without using a complex menu.
+  -  As a student who frequently eats campus food, I want to search a pre-loaded database for cafeteria food so that I can accurately record the nutritional content of local meals.
+  -  As a student with a limited budget, I would like to record the amount of money spent on a meal so that I can track my weekly expenditure.
+
+  ii. Should Have
+  -   As a health conscious person, I want to see a big "Calories Remaining" upon opening the app in order to be aware of my daily calorie allowance.
+
+  iii. Could Have
+  -    As a busy student, I want a quick add button to record my food within less than 30 seconds.
+
+  iv. Won't Have
+  -   As a person who lacks motivation, I want to receive streaks and badges when recording my meals to ensure I stay motivated to use the app daily.
+  -   As a student who often orders packaged foods, I want to be able to scan product's barcode using my phone camera in order to easily see the nutritional details of the product.
