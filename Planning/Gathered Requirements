@@ -17,14 +17,14 @@
   i. Must Have
   -  As a busy student, I want to record my water consumption in a single tap so I can monitor my daily hydration without using a complex menu.
   -  As a student who frequently eats campus food, I want to search a pre-loaded database for cafeteria food so that I can accurately record the nutritional content of local meals.
-  -  As a student with a limited budget, I would like to record the amount of money spent on a meal so that I can track my weekly expenditure.
+  -  As a health conscious person, I want to see a big "Calories Remaining" upon opening the app in order to be aware of my daily calorie allowance.
+  -  As a busy student, I want a quick add button to record my food within less than 30 seconds.
 
   ii. Should Have
-  -   As a health conscious person, I want to see a big "Calories Remaining" upon opening the app in order to be aware of my daily calorie allowance.
+  -   As a student with a limited budget, I would like to record the amount of money spent on a meal so that I can track my weekly expenditure.
 
   iii. Could Have
-  -    As a busy student, I want a quick add button to record my food within less than 30 seconds.
+  -    As a student who often orders packaged foods, I want to be able to scan product's barcode using my phone camera in order to easily see the nutritional details of the product.
 
   iv. Won't Have
   -   As a person who lacks motivation, I want to receive streaks and badges when recording my meals to ensure I stay motivated to use the app daily.
-  -   As a student who often orders packaged foods, I want to be able to scan product's barcode using my phone camera in order to easily see the nutritional details of the product.
