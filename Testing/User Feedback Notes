@@ -1,1 +1,16 @@
+User feedback notes:
+1) UI design/visuals was mainly rated around half 4/5 and half 5/5, so will need to improve that
+   Feedback on UI design/visuals:
+   - Change up the colours a bit
+   - Add animations and effects
+   - Make the boxes rounder/softer
 
+2) UI layout/structure was rated overwhlemingly 5/5, so should try to maintain current layout whilst adding in new features/implementing feedback
+   Feedback on UI layout/structure:
+   - Add intake unit on Y axis for meal/water bar charts
+   - Add text field to allow user to manually input Daily Goals for meal/water tracking
+   - Add more nutritional information to Search Campus Database meal items
+
+3) Application controls and navigation were rated around half 4/5 and half 5/5, so will need to improve that
+   Feedback on application controls and navigation:
+   - Add flow indicator so the user knows which page they came from, like "Quick Add Meal > Log Meal Calories"
