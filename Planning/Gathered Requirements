@@ -3,6 +3,7 @@
 - The system will include a searchable database of pre-calculated calories of Taylor's University Campus food.
 - The system will automatically compute and display the amount of calories the user needs to consume on the home page.
 - The system will monitor the amount of money (Ringgit Malaysia) spent on meals per day to help withy managing budgets.
+- The system will allow users to scan a products barcode in order to view its nutritional information.
 
 2. Non-Functional Requirements
 - The application interface needs to be sparse and the user needs to be able to record a common campus meal within less than 30s to avoid user tediousness.
