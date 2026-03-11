@@ -12,7 +12,7 @@
    - Testing/Feedback -> Ethan Ang Jun Yi
    - Report + Presentation -> Everyone
 
-3) Project Description
+3) Project Description:
    Our application, Taylor's Student Wellness and Nutrition App, is a mobile application centered on helping the Taylor's student community by allowing them to record and      track their daily meals as well as being more aware of its nutritional content through our applications available features such as the tracking of meal calories, water      intake and budget use, searchable campus meal database, quick add meal feature and many more, all in line with our chosen social development goal, that being SDG 3: Good    health and well-being.
    
 5) Overview of SDLC
