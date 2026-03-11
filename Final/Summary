@@ -1,1 +1,6 @@
-
+Summary of changes implemented:
+1 - Changed/varied the colours of multiple pages to make it more interesting/modern
+2 - Made the app more modern via adding app logo to several pages, changing colours, adding navigation flow, adding more effects to buttons/interfaces, etc
+3 - Added more details/information by adding relative units to all graphs axis, added additional nutritional information to search campus meal database
+4 - Added additional functionality to existing pages such as allowing users to manually input daily goals and additonal navigation buttons to new pages
+5 - Added new features such as scanning product barcode and logging budget expenses 
